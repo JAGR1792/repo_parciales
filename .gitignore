@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# C build artifacts
+*.o
+*.out
+a.out
+
+# Flex/Bison generated C files (se regeneran)
+lex.yy.c
+*.tab.c
+*.tab.h
+
+# Local binaries used in tests
+punto4_c
+punto3
+calculadora
