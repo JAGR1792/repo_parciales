@@ -1,0 +1,8 @@
+FIBO=1
+LPAREN=2
+RPAREN=3
+INT=4
+WS=5
+'FIBO'=1
+'('=2
+')'=3

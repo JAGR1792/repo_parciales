@@ -1,0 +1,5 @@
+variable
+A1
+miID2026
+9inicio
+nombre-apellido
