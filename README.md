@@ -7,6 +7,7 @@ Este directorio contiene 5 puntos del parcial.
 - `flex`
 - `bison`
 - `cc` (o `gcc`)
+- `jdk`
 - ANTLR4 (comando `antlr4`) para el Punto 5
 
 ## Estructura
