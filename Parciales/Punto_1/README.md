@@ -131,3 +131,8 @@ Cadena: 'p=>k4'
 	Secuencia: q0
 	Resultado: No aceptado
 ```
+### Otras cosas
+Ahora que lo veo, existen otras maneras de notación
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40404eb0-c856-4edd-b415-9b1e09cf0340" />
+
+Al finalizar el movimiento si pones en Jaque al rey rival, la notación dice que hay que colocar '+' al final.
